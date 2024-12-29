@@ -1,0 +1,1 @@
+Student ID: 20230784 Total Score: 100/100 [Quiz] (10/10) [Code] (40/40) - Valid: 26/26 - Memory utilization: 50/60 - Throughput: 40/40 - Perf. Index = Memory utilization + throughput = 90/100 [Report] (50/50) - mm_malloc: 15/15 - mm_free: 15/15 - mm_realloc: 10/10 - mm_init: 5/5 - mm_check: 5/5

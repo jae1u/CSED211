@@ -1,0 +1,1 @@
+"20230784 quiz: 10/10, code: 40/40, report: 50 eval: 15, builtin_cmd: 5, do_bgfg: 10, waitfg: 5, sigchld_handler: 5, sigint_handler: 5, sigtstp_handler: 5 "

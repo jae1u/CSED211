@@ -1,0 +1,1 @@
+Quiz (10): 7 Code Raw Score(27+8+8+10): 27+8+4.5+10=49.5 Code(40): 40 x 49.5/53 = 37.36 Report(50): 44 Total(100): 88.36 Feedback: Part A hit, miss, eviction 조건 설명 X [-3 pts] Part A hit, miss, eviction에 따른 시뮬레이터 동작 설명 미흡 [-3 pts]

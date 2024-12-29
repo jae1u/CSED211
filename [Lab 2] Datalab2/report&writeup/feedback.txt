@@ -1,0 +1,1 @@
+20230784 quiz: 6.67/10, code: 19/19, report: 76/76 Total (quiz * 0.6 + code * (30/19) + report * (24/76)): 58.002/60 negate: 2/2, isLess: 3/3, float_abs: 2/2, absVal: 4/4, float_i2f: 4/4, float_f2i: 4/4 comment: float_twice: Missing the case when norm x2 becomes inf (-4).
